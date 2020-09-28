@@ -16,21 +16,11 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
 ### Known Languages:
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/swift.png" width="80"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/java.png" width="60"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/c%23.png" width="40"></a>|
+<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/swift.png" width="80"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/java.png" width="60"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/c%23.png" width="60"></a>
 |--|--|--|
 
 ### Known Tools and Technologies
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest.jpeg" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/espresso.jpeg" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/appium.jpeg" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/selenium.png" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/seetest.jpeg" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/jenkins.png" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/jmeter.png" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/postman.png" width="40"></a>|
-<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/tree/master/icons" width="40"></a>|
+<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest.jpeg" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/espresso.jpeg" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/appium.jpeg" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/selenium.png" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/seetest.jpeg" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/jenkins.png" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/jmeter.png" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/postman.png" width="40"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/gql.png" width="60"></a>|
 |--|--|--|--|--|--|--|--|--|
 
 ### Present endeavours:
