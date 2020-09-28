@@ -1,7 +1,7 @@
 <h1> Hi, I am Suparna Khamaru 👋 </h1>
 I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a permanent resident of Bangalore, India and currently work at News Corp for "The Times" apps
 
-### About Me 
+### <a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/me.png" width="100"></a>
 - 🔭 I’m currently working on Apple's ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) and Google's ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFFF00) by stubbing network layers
 - 🌱 I’m currently exploring advanced `Data structures and algorithms in Swift`
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
