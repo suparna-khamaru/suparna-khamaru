@@ -2,14 +2,14 @@
 
 My name is Suparna Khamaru and I am a Web & Mobile apps Test Automation Engineer by profession. I am a Bengali, living in Bangalore, India and currently work at News Corp for `The Times`. 
 
-- 🔭 I’m currently working on Building and implementing test frameworks in iOS apps using Apple's XCUITest in Swift language
-- 🌱 I’m currently learning Data structures and alogorithms
+- 🔭 I’m currently working on Apple's XCUITest in Swift language
+- 🌱 I’m currently learning Data structures and alogorithms in Swift 
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, along with configuring in CI
 - 💬 Ask me about anything on software testing, automation testing and CI configurations for web and mobile test runs
 - 📫 How to reach me: https://www.linkedin.com/in/suparnakhamaru/
 
 ⚡ Fun fact: 
-I love to apply exploration and diversication in my life. 
+My other interests are investing, trading, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
 
 <!--
