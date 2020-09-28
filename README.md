@@ -1,6 +1,8 @@
-### Hi there 👋
+#### Hi there 👋
 
-My name is Suparna Khamaru and I am a Web & Mobile apps Test Automation Engineer by profession. I am a Bengali, living in Bangalore, India and currently work at News Corp for `The Times`. 
+# I am Suparna Khamaru 
+I am a Web & Mobile apps Test Automation Engineer
+I am a Bengali, living in Bangalore, India and currently work at News Corp for `The Times`. 
 
 - 🔭 I’m currently working on Apple's XCUITest in Swift language
 - 🌱 I’m currently learning Data structures and alogorithms in Swift 
