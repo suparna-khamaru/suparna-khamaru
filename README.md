@@ -8,13 +8,9 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 - 💬 Ask me about anything on software testing, automation testing and building test pipelines in CI for web and mobile test runs
 
 ### 📫 Where to find me:
-[![Instagram][1.2]][1]  [![LinkedIn][2.2]][2]
 
-[1.2]: https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg
-[2.2]: https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png
-
-[1]: https://www.instagram.com/suparna.khamaru/
-[2]: https://www.linkedin.com/in/suparnakhamaru/
+<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="40"></a>
+|--|--|
 
 ### Blog posts:
 Medium 
@@ -43,4 +39,3 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 * DRY principle (do not repeat yourself)
 * KISS (keep it simple stupid)
 * Yagni (you aren’t gonna need it)
-
