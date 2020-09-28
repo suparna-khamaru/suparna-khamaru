@@ -9,18 +9,11 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 
 ### 📫 Where to find me:
 
-<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>
-|--|--|
-
-### Blog posts:
-Medium 
-QA Learning guide 
+<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>|<a href="https://medium.com/@suparna.khamaru"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="70"></a>
+|--|--|--|
 
 ### ⚡ Fun fact: 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
-
-### Expert in current endeavours:
-<img title="expertise" alt="xcuitest" src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest_espresso.png" width="600"/>
 
 ### Also good in:
 ![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -28,3 +21,7 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 ![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Postman-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+### Expert in current endeavours:
+<img title="expertise" alt="xcuitest" src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest_espresso.png" width="700"/>
+
