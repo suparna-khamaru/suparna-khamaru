@@ -28,14 +28,3 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 ![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Postman-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-### Best Practices I have worked in my Test Frameworks:
-- OOPs & POP
-- AAA Pattern (Arrange, Act, Assert)
-- POM Pattern (Page Object Model)
-- Red Green Refactor Pattern
-- SOLID principle
-- Clean code
-* DRY principle (do not repeat yourself)
-* KISS (keep it simple stupid)
-* Yagni (you aren’t gonna need it)
