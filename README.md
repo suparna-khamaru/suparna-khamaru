@@ -13,7 +13,7 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 |--|--|--|
 
 ### ⚡ Fun fact: 
-My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
+My other interests are investing, trading, exploring, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
 ### Known Languages:
 <a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/swift.png" width="80"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/java.png" width="60"></a>|<a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/c%23.png" width="60"></a>
