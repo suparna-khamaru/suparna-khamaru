@@ -16,11 +16,11 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
 ### Also good in:
-![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Selenium-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Postman-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=800080)    
+![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)   
+![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=A52A2A)    
+![](https://img.shields.io/badge/Selenium-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=29A6A6)    
+![](https://img.shields.io/badge/Postman-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=808000)
 
 ### Present endeavours:
 <img title="expertise" alt="xcuitest" src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest_espresso.png" width="800"/>
