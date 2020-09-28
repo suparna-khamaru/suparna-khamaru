@@ -1,5 +1,5 @@
 <h1> Hi there, I am Suparna Khamaru 👋 </h1>
-I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a permanent resident of Bangalore, India and currently work at News Corp for `The Times`. 
+I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a permanent resident of Bangalore, India and currently work at News Corp for `The Times`
 
 ### About Me
 - 🔭 I’m currently working on Apple's XCUITest in Swift language
