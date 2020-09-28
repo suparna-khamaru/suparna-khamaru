@@ -4,7 +4,7 @@ My name is Suparna Khamaru and I am a Web & Mobile apps Test Automation Engineer
 
 - 🔭 I’m currently working on Apple's XCUITest in Swift language
 - 🌱 I’m currently learning Data structures and alogorithms in Swift 
-- 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, along with configuring in CI
+- 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
 - 💬 Ask me about anything on software testing, automation testing and CI configurations for web and mobile test runs
 - 📫 How to reach me: https://www.linkedin.com/in/suparnakhamaru/
 
