@@ -7,8 +7,13 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
 - 💬 Ask me about anything on software testing, automation testing and building test pipelines in CI for web and mobile test runs
 
-### 📫 Connect with me:
+### 📫 Where to find me:
 https://www.linkedin.com/in/suparnakhamaru/
+Instagram 
+
+### Blog posts:
+Medium 
+QA Learning guide 
 
 ### ⚡ Fun fact: 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
@@ -18,6 +23,7 @@ Swift, Java, C sharp, Kotlin, Ruby, Shell scripting
 
 ### Tools:
 ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -30,8 +36,15 @@ Won several Hackathons
 
 ### Best Practices I have worked in my Test Frameworks:
 
-POP, OOPs, 
-
+- OOPs & POP
+- AAA Pattern (Arrange, Act, Assert)
+- POM Pattern (Page Object Model)
+- Red Green Refactor Pattern
+- SOLID principle
+- Clean code
+* DRY principle (do not repeat yourself)
+* KISS (keep it simple stupid)
+* Yagni (you aren’t gonna need it)
 
 <!--
 //You can find me on [![Instagram][1.2]][1], or on [![LinkedIn][3.2]][3].
