@@ -19,10 +19,10 @@ QA Learning guide
 ### ⚡ Fun fact: 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
-### Loves working on:
-<img title="expertise" alt="xcuitest" src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest_espresso.png"/>
+### Expert in current endeavours:
+<img title="expertise" alt="xcuitest" src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/xcuitest_espresso.png" width="600"/>
 
-### Also holds good experience working on:
+### Also good in:
 ![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
