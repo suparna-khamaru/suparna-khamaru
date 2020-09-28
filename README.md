@@ -5,7 +5,7 @@ I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a 
 - 🔭 I’m currently working on Apple's XCUITest in Swift language
 - 🌱 I’m currently learning Data structures and alogorithms in Swift 
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
-- 💬 Ask me about anything on software testing, automation testing and CI configurations for web and mobile test runs
+- 💬 Ask me about anything on software testing, automation testing and building test pipelines in CI for web and mobile test runs
 
 ### 📫 Connect with me:
 https://www.linkedin.com/in/suparnakhamaru/
@@ -16,13 +16,21 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 ### Languages:
 Swift, Java, C sharp, Kotlin, Ruby, Shell scripting
 
-
 ### Tools:
-XCUITest, Appium, Espresso, Selenium, 
+![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Selenium-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Postman-JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ### Acheivements:
 Won several Hackathons 
 
+### Best Practices I have worked in my Test Frameworks:
+
+POP, OOPs, 
 
 
 <!--
