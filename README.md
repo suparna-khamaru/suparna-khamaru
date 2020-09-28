@@ -9,7 +9,7 @@ My name is Suparna Khamaru and I am a Web & Mobile apps Test Automation Engineer
 - 📫 How to reach me: https://www.linkedin.com/in/suparnakhamaru/
 
 ⚡ Fun fact: 
-My other interests are investing, trading, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
+My other interests are investing, trading, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
 
 
 <!--
