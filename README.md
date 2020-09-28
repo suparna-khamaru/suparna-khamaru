@@ -21,7 +21,7 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 ### Languages:
 Swift, Java, C sharp, Kotlin, Ruby, Shell scripting
 
-### Tools:
+### I also have experience working on:
 ![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
