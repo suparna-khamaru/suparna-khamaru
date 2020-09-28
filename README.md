@@ -6,6 +6,7 @@ I am a Web & Mobile apps Test Automation Engineer from Bangalore, India and curr
 - 🌱 I’m currently exploring advanced `Data structures and algorithms in Swift`
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
 - 💬 Ask me about anything on software testing, automation testing, test frameworks and building test pipelines in CI for web and mobile test runs
+- ❤️ Loves testing, automating and solve testing problems in real world
 
 ### 📫 Where to find me:
 
