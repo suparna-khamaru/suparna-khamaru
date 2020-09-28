@@ -6,10 +6,23 @@ I am Suparna Khamaru, a Web & Mobile apps Test Automation Engineer. I am from We
 - 🌱 I’m currently learning Data structures and alogorithms in Swift 
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
 - 💬 Ask me about anything on software testing, automation testing and CI configurations for web and mobile test runs
-- 📫 How to reach me: https://www.linkedin.com/in/suparnakhamaru/
+
+### 📫 Connect with me:
+https://www.linkedin.com/in/suparnakhamaru/
 
 ### ⚡ Fun fact: 
 My other interests are investing, trading, explorng, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
+
+### Languages:
+
+
+
+### Tools:
+
+
+### Acheivements:
+
+
 
 
 <!--
