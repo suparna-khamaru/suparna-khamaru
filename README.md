@@ -1,9 +1,9 @@
 <h1> Hi there, I am Suparna Khamaru 👋 </h1>
 I am a Web & Mobile apps Test Automation Engineer. I am from West Bengal, and a permanent resident of Bangalore, India and currently work at News Corp for The Times
 
-### About Me
-- 🔭 I’m currently working on Apple's XCUITest in Swift language
-- 🌱 I’m currently learning Data structures and alogorithms in Swift 
+### About Me 
+- 🔭 I’m currently working on Apple's ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) and ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+- 🌱 I’m currently learning Data structures and algorithms in Swift
 - 👯 I’m looking to collaborate on Testing and Automation focussed towards web and mobile apps, configured to CI
 - 💬 Ask me about anything on software testing, automation testing and building test pipelines in CI for web and mobile test runs
 
@@ -22,9 +22,6 @@ My other interests are investing, trading, explorng, learning new stuffs, bloggi
 Swift, Java, C sharp, Kotlin, Ruby, Shell scripting
 
 ### Tools:
-![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-
-![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Appium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Selenium-CSharp-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/SeeTest-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
