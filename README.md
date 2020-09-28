@@ -1,5 +1,5 @@
 <h1> Hi, I am Suparna Khamaru 👋 </h1>
-I am a Web & Mobile apps Test Automation Engineer. I am from Bangalore, India and currently work at News Corp for "The Times" apps
+I am a Web & Mobile apps Test Automation Engineer from Bangalore, India and currently work at News Corp for "The Times" apps
 
 ### <a><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/me.png" width="100"></a>
 - 🔭 I’m currently working on Apple's ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) and Google's ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFFF00) by stubbing network layers
