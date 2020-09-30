@@ -1,4 +1,4 @@
-<h1> Hi, I am Suparna 👋 </h1>
+<h1> Hi, I am Suparna </h1>
 
 -  I am a Web & Mobile apps Test Automation Engineer from Bangalore, India and currently work at News Corp for "The Times" apps
 - 🔭 I’m currently working on Apple's ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) and Google's ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFFF00) with stubbed/mocked network layers
