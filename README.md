@@ -6,7 +6,7 @@
 
 ### 📫 Where to find me:
 
-<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>|<a href="https://medium.com/@suparna.khamaru"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="70"></a>|<a href="https://www.yourquote.in/suparna-khamaru-iurz/quotes"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/yourquote.png" width="70"></a>
+<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/linkedin.png" width="40"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/instagram.jpg" width="60"></a>|<a href="https://super-tester.medium.com/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="70"></a>|<a href="https://www.yourquote.in/suparna-khamaru-iurz/quotes"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/yourquote.png" width="70"></a>
 |--|--|--|--|
 
 ### ⚡ Fun fact: 
