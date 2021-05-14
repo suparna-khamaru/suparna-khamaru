@@ -6,8 +6,8 @@
 
 ### 📫 Where to find me:
 
-<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/in.png" width="50"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/insta.jpeg" width="50"></a>|<a href="https://super-tester.medium.com/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="90"></a>|<a href="https://www.yourquote.in/suparna-khamaru-iurz/quotes"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/yourquote.png" width="80"></a>|<a href="https://www.lambdatest.com/blog/author/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/lbdtest.png" width="90"></a>
-|--|--|--|--|--|
+<a href="https://www.linkedin.com/in/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/in.png" width="50"></a>|<a href="https://www.instagram.com/suparna.khamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/insta.jpeg" width="50"></a>|<a href="https://super-tester.medium.com/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/medium.jpg" width="90"></a>|<a href="https://www.yourquote.in/suparna-khamaru-iurz/quotes"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/yourquote.png" width="80"></a>|<a href="https://www.lambdatest.com/blog/author/suparnakhamaru/"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/lbdtest.png" width="90"></a>|<a href="https://twitter.com/suparna3107"><img src="https://github.com/suparna-khamaru/suparna-khamaru/blob/master/icons/twit.png" width="90"></a>
+|--|--|--|--|--|--|
 
 ### ⚡ Fun fact: 
 My other interests are investing, trading, exploring, learning new stuffs, blogging, writing quotes, photographing, videographing, videoediting, travelling, exploring, meeting interesting people and living life's every moment joyfully & peacefully. 
