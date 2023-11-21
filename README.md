@@ -1,6 +1,6 @@
 <h1> Hi, I am Suparna </h1>
 
- I am a Web & Mobile apps Test Automation Engineer from Bangalore, India and currently work at RSA Security as Principal Software Engineer.
+ I am a Web & Mobile apps Test Automation Engineer from Bangalore, India and currently work at Paypal as MTS 1, SE - Quality.
 🔭 I specialise in Apple's ![](https://img.shields.io/badge/XCUITest-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) and Google's ![](https://img.shields.io/badge/Espresso-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=FFFF00) with stubbed/mocked network layers
 
 I am passionate ❤️ about 
